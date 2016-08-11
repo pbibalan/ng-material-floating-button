@@ -7,7 +7,7 @@
     "mfb/dist/mfb.css",
     "mfb/src/mfb.scss"
   ],
-  "repository": "https://github.com/nobitagit/ng-material-floating-button",
+  "repository": "https://github.com/pbibalan/ng-material-floating-button",
   "scripts": {
     "test": "grunt karma"
   },
